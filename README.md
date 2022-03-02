@@ -38,7 +38,11 @@ SNOKI has a total supply of 1 Billion coins
 
 ## SNOKI SOCIALS
 Telegram: https://t.me/SnokiOfficial
+
 Website: https://snoki.io/
+
 Twitter: https://twitter.com/Snokiofficial
+
 KYC: https://github.com/interfinetwork/project-kyc-verification/blob/main/Snoki_KYCCertificate_InterFi.pdf
+
 Smart Contract Deployed by - https://t.me/imfrodobaggins
